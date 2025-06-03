@@ -6,8 +6,7 @@
 
 ## 🔗 Visit the Website
 
-👉 [NextGadgets NG](https://dammydx.github.io/NextGadgets/) *(replace with your live URL)*
-
+👉 [NextGadgets NG](https://dammydx.github.io/NextGadgets/) 
 ---
 
 ## 💡 What You Can Do on NextGadgets NG
